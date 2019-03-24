@@ -56,6 +56,11 @@ padding:50px;
   width:150px;
 }
 
-.footer{
+.center-text{
   text-align:center;
+}
+
+button a, a:hover{
+  color:white;
+  text-decoration: none;
 }
