@@ -20,28 +20,12 @@ font-size: 3rem;
 line-height: 1.5;
 }
 
-.container-kevin{
-  background-image: url('../images/kevin-bg.png');
-background-color: black;
+.container-section{
+/*  background-image: url('../images/kevin-bg.png');
 background-blend-mode: screen;
-background-repeat: no-repeat;
-height:500px;
-}
-
-.container-keanu{
-  background-image: url('../images/keanu-bg.png');
+background-repeat: no-repeat;*/
 background-color: black;
-background-blend-mode: screen;
-background-repeat: no-repeat;
-height:500px;
-}
-
-.container-kindra{
-  background-image: url('../images/kindra-bg.png');
-background-color: black;
-background-blend-mode: screen;
-background-repeat: no-repeat;
-height:500px;
+padding:50px;
 }
 
 /* navbar style */
@@ -62,4 +46,16 @@ height:500px;
 .nav-link{
   font-size:1.2rem;
   font-family: 'Montserrat-light';
+}
+
+.thumbnail{
+  width:500px;
+}
+.img-thumbnail-logo{
+  height:150px;
+  width:150px;
+}
+
+.footer{
+  text-align:center;
 }
